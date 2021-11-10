@@ -1,3 +1,3 @@
 console.log("No le temas a él");
-alert("Eternals (2021)");
+alert("Spider-Man: No Way Home");
 document.write("No será lo mismo sin ti");
