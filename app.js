@@ -9,4 +9,5 @@ if (grupo == "Panda") {
     document.write("Prometo, no hablarte de amor");
 } else {
     document.write("Lo quiero, con todo respeto a palpar");
+    document.write("Cuándo te conocí");
 }
