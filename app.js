@@ -10,4 +10,6 @@ if (grupo == "Panda") {
 } else {
     document.write("Lo quiero, con todo respeto a palpar");
     document.write("Cuándo te conocí");
+
+    document.write("Línea de código generado en la 'rama2'");
 }
