@@ -12,4 +12,6 @@ if (grupo == "Panda") {
     document.write("Cuándo te conocí");
 
     document.write("Línea de código generado en la 'rama2'");
+
+    document.write("Segunda Línea de código generado en la 'rama2'");
 }
