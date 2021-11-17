@@ -13,5 +13,5 @@ if (grupo == "Panda") {
 
     document.write("Línea de código generado en la 'rama2'");
 
-    document.write("Segunda Línea de código generado en la 'rama2'");
+    alert("Código generado en la rama2, para generar conflicto");
 }
