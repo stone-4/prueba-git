@@ -4,6 +4,6 @@
 }
 
 body {
-  display: flex;
-  justify-content: space-evenly;
+  background-color: navy;
+  color: white;
 }
