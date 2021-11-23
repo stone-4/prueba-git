@@ -4,6 +4,5 @@
 }
 
 body {
-  display: flex;
-  justify-content: space-evenly;
+  display: inline-block;
 }
