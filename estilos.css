@@ -4,5 +4,6 @@
 }
 
 body {
-  display: inline-block;
+  background-color: navy;
+  color: white;
 }
